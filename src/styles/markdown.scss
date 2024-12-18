@@ -1,0 +1,70 @@
+.markdownContent h1,
+.markdownContent h2,
+.markdownContent h3,
+.markdownContent h4,
+.markdownContent h5,
+.markdownContent h6 {
+	font-size: revert !important;
+	font-weight: revert !important;
+	line-height: revert !important;
+	margin: revert !important;
+	padding: revert !important;
+}
+
+.markdownContent p {
+	margin: revert !important;
+	font-size: revert !important;
+	line-height: revert !important;
+	color: inherit;
+}
+
+.markdownContent span {
+	margin: revert !important;
+	font-size: revert !important;
+	line-height: revert !important;
+	color: inherit;
+}
+
+.markdownContent blockquote {
+	font-size: revert !important;
+	line-height: revert !important;
+	margin: revert !important;
+	padding: revert !important;
+	border-left: revert !important;
+	color: inherit;
+}
+
+.markdownContent ul,
+.markdownContent ol {
+	list-style: revert !important;
+	margin: revert !important;
+	padding: revert !important;
+}
+
+.markdownContent table,
+.markdownContent caption,
+.markdownContent tbody,
+.markdownContent tfoot,
+.markdownContent thead,
+.markdownContent tr,
+.markdownContent th,
+.markdownContent td {
+	margin: revert !important;
+	padding: 0 12px !important;
+	border: 1px solid black !important;
+	font-size: revert !important;
+	vertical-align: baseline !important;
+}
+.markdownContent table {
+	border-collapse: collapse !important;
+	border-spacing: 0 !important;
+}
+
+.markdownContent code {
+	font-size: revert !important;
+	font-weight: revert !important;
+	line-height: revert !important;
+	margin: revert !important;
+	padding: revert !important;
+	color: inherit;
+}

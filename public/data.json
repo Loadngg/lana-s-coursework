@@ -1,0 +1,49 @@
+[
+	{
+		"id": 1,
+		"title": "Теория формальных грамматик и языков",
+		"lectures": [
+			{
+				"id": 1,
+				"title": "Грамматика",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture1chapter1.md"
+			},
+			{
+				"id": 2,
+				"title": "Формальные определения грамматики языка",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture1chapter2.md"
+			},
+			{
+				"id": 3,
+				"title": "Классификация грамматик",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture1chapter3.md"
+			},
+			{
+				"id": 4,
+				"title": "Синтаксические деревья",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture1chapter4.md"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Теория трансляции",
+		"lectures": [
+			{
+				"id": 5,
+				"title": "Лексический анализ",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture2chapter1.md"
+			},
+			{
+				"id": 6,
+				"title": "Синтаксический анализ",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture2chapter2.md"
+			},
+			{
+				"id": 7,
+				"title": "Метод рекурсивного спуска",
+				"text": "https://raw.githubusercontent.com/s-lana-nev/CW_MT_files/refs/heads/main/lecture2chapter3.md"
+			}
+		]
+	}
+]

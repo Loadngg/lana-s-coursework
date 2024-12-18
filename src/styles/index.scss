@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*:before,
+*:after {
+	@apply text-base box-border m-0 p-0 text-black;
+
+	font-family: 'Inter', sans-serif !important;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	@apply bg-purple-600;
+}
+
+.wrapper {
+	@apply flex flex-col w-full max-w-[1696px] px-32 pt-16 mx-auto text-center min-h-screen;
+}
+
+.customBlock {
+	@apply bg-background rounded-3xl py-6 px-10 flex gap-4;
+}

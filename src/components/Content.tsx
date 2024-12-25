@@ -71,7 +71,7 @@ const Content = ({
 		)
 	else
 		return (
-			<main className='customBlock gap-2 flex-1 flex-col text-start'>
+			<main className='customBlock gap-2 flex-1 flex-col text-start max-w-[1000px] min-w-[1000px]'>
 				<p className='text-left text-2xl font-bold'>План:</p>
 				<ul>
 					{lectures.map(item => (
